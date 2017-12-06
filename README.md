@@ -58,7 +58,7 @@ MySQL in other areas.
 **Seriously - please review the FAQ section below.**
 
 
-Security recommandations
+Security recommendations
 --
 
 Hi directadmin user! 
